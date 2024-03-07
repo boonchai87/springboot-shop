@@ -1,0 +1,28 @@
+.idea/.gitignore
+.idea/compiler.xml
+.idea/encodings.xml
+.idea/jarRepositories.xml
+.idea/jpa-buddy.xml
+.idea/misc.xml
+.idea/vcs.xml
+.vscode/settings.json
+<<<<<<< HEAD
+target/classes/com/example/demo/DemoApplication.class
+target/classes/com/example/demo/controller/HomeController.class
+target/maven-archiver/pom.properties
+target/surefire-reports/2024-02-22T18-20-03_666.dumpstream
+target/surefire-reports/com.example.demo.DemoApplicationTests.txt
+target/surefire-reports/TEST-com.example.demo.DemoApplicationTests.xml
+target/test-classes/com/example/demo/DemoApplicationTests.class
+=======
+target/MySpringBoot-0.0.1-SNAPSHOT.jar.original
+target/classes/com/example/demo/controller/HomeController.class
+target/maven-archiver/pom.properties
+target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst
+target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst
+target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst
+target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst
+target/surefire-reports/2024-02-22T18-20-03_666.dumpstream
+target/surefire-reports/com.example.demo.DemoApplicationTests.txt
+target/surefire-reports/TEST-com.example.demo.DemoApplicationTests.xml
+>>>>>>> ac43739e1e60140642ba5aa509b2edca9fedcc8c
